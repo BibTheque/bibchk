@@ -11,4 +11,4 @@
 
 __version__ = '0.1.0'
 
-from bibchk.bibchk import *
+from bibchk import *
