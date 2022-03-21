@@ -2,6 +2,12 @@
 
 Simple program to return the BibTeX string of a given DOI(s) or ISBN(s).
 
+## Install
+
+`pip install bibchk`
+
+## Example Usage
+
 An example with a DOI and DOI URL:
 
 ```bash
