@@ -41,7 +41,7 @@ $ bibchk 10.1002/2016JC011857 https://doi.org/10.1002/2016JC011857
 }
 ```
 
-or with an ISBN:
+Or with an ISBN:
 
 ```bash
 $ bibchk 0-486-60061-0
