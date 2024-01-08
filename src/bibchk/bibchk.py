@@ -158,6 +158,7 @@ def get_bib(work_id):
     else:
         return None
 
+
 def print_bib(work_id, bib_str):
     """Prints BibTeX string.
     """
